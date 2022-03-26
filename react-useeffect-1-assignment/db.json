@@ -1,0 +1,59 @@
+{
+  "todoList": [
+    {
+      "title": "apple",
+      "status": false,
+      "id": 1
+    },
+    {
+      "title": "banana",
+      "status": false,
+      "id": 2
+    },
+    {
+      "title": "orange",
+      "status": false,
+      "id": 5
+    },
+    {
+      "title": "grapes",
+      "status": false,
+      "id": 6
+    },
+    {
+      "title": "mango",
+      "status": false,
+      "id": 7
+    },
+    {
+      "title": "guava",
+      "status": false,
+      "id": 8
+    },
+    {
+      "title": "watermelon",
+      "status": false,
+      "id": 9
+    },
+    {
+      "title": "ice-cream",
+      "status": false,
+      "id": 10
+    },
+    {
+      "title": "chips",
+      "status": false,
+      "id": 11
+    },
+    {
+      "title": "kurkure",
+      "status": false,
+      "id": 12
+    },
+    {
+      "title": "papaya",
+      "status": false,
+      "id": 13
+    }
+  ]
+}
